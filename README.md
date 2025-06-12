@@ -1,5 +1,7 @@
 # Marcosr-o
-/////Ola, sou o Marcos Rão, programador atualmente trabalho com Front-end, criando projeto com HTML e CSS, em aprendizado com JavaScript e React.
+Hi, I'm Marcos Rão, a programmer who currently works with Front-end, creating projects with HTML and CSS, learning JavaScript and React.
+<br>
+Ola, sou o Marcos Rão, programador atualmente trabalho com Front-end, criando projeto com HTML e CSS, em aprendizado com JavaScript e React.
 <br>
 <br>
 - <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="logo html"/>
